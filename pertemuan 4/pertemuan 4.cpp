@@ -16,3 +16,10 @@ void input()
 	cin >> b;
 }
 
+int penjumlahan(int bil_1, int bil_2) {
+	return bil_1 + bil_2;
+}
+
+
+
+
