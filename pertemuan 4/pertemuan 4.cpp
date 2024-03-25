@@ -44,5 +44,11 @@ do {
 	cout << "5.keluan" << endl;
 	cout << "masukan menu yang ingin dipilih (1/2/3/4/5):";
 	cin >> pilihan;
+
+	switch (pilihan)
+	{
+	
+	
+	}
 }
 
