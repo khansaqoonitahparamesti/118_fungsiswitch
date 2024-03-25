@@ -47,7 +47,11 @@ do {
 
 	switch (pilihan)
 	{
-	
+	case 1:
+		input();
+		cout << "hasil penjumlahan" << penjumlahan(a, b) << endl;
+		system("pause");
+		break;
 	
 	}
 }
