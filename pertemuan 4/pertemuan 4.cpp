@@ -57,6 +57,11 @@ do {
 			cout << "hasil pengurangan=" << pengurangan(a, b) << endl;
 		system("pause");
 		break;
+	case 3:
+		input();
+		cout << "hasil perkalian" << perkalian(a, b) << endl;
+		system("pause");
+		break;
 	
 	}
 }
