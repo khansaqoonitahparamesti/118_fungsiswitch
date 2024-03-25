@@ -49,7 +49,12 @@ do {
 	{
 	case 1:
 		input();
-		cout << "hasil penjumlahan" << penjumlahan(a, b) << endl;
+		cout << "hasil penjumlahan=" << penjumlahan(a, b) << endl;
+		system("pause");
+		break;
+	case 2:
+		input()
+			cout << "hasil pengurangan=" << pengurangan(a, b) << endl;
 		system("pause");
 		break;
 	
